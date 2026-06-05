@@ -1,5 +1,12 @@
-## Hi there 👋
+## Hi there 👋 Iliya Radulov –
+I am Physicist who is trying to get familiar with LLM, NLP & Machine Learning
+As physicist I have extensive experience in **analyzing complex measurement data**, now specializing in **LLMs, NLP, machine learning, IoT, and AI-driven supply chain solutions**.  
+I combine strong mathematical & statistical foundations from physics with modern ML/AI tools (Python, transformers, LLMs, NumPy, Pandas).
 
+📍 Location: [Bad König, Germany]  
+🔗 LinkedIn: https://www.linkedin.com/in/iliyaradulov  
+📧 Email: iliyaradulov@gmail.com  
+📚 GitHub: https://github.com/radulradul
 <!--
 **radulradul/radulradul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
